@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="bottom" height="150" src="https://i.imgflip.com/65efzo.gif](https://cdnl.iconscout.com/lottie/free/preview/free-astronot-3832084-3205483.mp4?h=700"  />
+<img align="bottom" height="150" src="https://cdnl.iconscout.com/lottie/free/preview/free-astronot-3832084-3205483.mp4?h=700"  />
 
 ###
 
