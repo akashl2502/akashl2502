@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/akashl2502/akashl2502/snake.yml" alt="Snake animation" />
+
 
 ###
