@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img align="bottom" height="150" src="./ty.png"  />
+<img align="center" height="150" src="./ty.png"  />
 
 ###
