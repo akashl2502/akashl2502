@@ -48,7 +48,8 @@
 ###
 
 <br clear="both">
+<div align="center"><img  height="150" src="./ty.png"  />
+</div>
 
-<img align="center" height="150" src="./ty.png"  />
 
 ###
