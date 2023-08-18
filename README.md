@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="bottom" height="150" src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0111.gif"  />
+
 
 ###
 
@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-
+<img align="bottom" height="150" src="./ty.png"  />
 
 ###
